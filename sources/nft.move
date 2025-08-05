@@ -1,5 +1,5 @@
 /*
-/// Module: nft
+// Module: nft
 module nft::nft;
 */
 
