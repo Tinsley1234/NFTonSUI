@@ -8,7 +8,7 @@ const ENotImplemented: u64 = 0;
 
 #[test]
 fun test_nft() {
-    // pass
+    //  pass
 }
 
 #[test, expected_failure(abort_code = ::nft::nft_tests::ENotImplemented)]
